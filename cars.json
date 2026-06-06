@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "Alfa Romeo",
+    "model": "4C",
+    "year": 2014,
+    "images": [
+      "https://placehold.co/400x250/333/fff?text=Front+View",
+      "https://placehold.co/400x250/444/fff?text=Back+View",
+      "https://placehold.co/400x250/555/fff?text=Interior+View"
+    ],
+    "logo": "https://placehold.co/80x80/222/fff?text=Logo",
+    "type": "Road Car",
+    "country": "Italy",
+    "engine": "1.7L Turbocharged I4",
+    "power": "243 PS (239 hp)",
+    "torque": "323 N·m (238 lb·ft)",
+    "layout": "Mid-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed",
+    "weight": "940 kg (2,072 lb)",
+    "balance": "41 / 59",
+    "topSpeed": "259 km/h (161 mph)",
+    "pwr": "0.26 PS/kg",
+    "piRating": "534.25"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "8C Competizione",
+    "year": 2007,
+    "images": [
+      "https://placehold.co/400x250/800000/fff?text=Front+View",
+      "https://placehold.co/400x250/a00000/fff?text=Back+View",
+      "https://placehold.co/400x250/c00000/fff?text=Interior+View"
+    ],
+    "logo": "https://placehold.co/80x80/222/fff?text=Logo",
+    "type": "Road Car",
+    "country": "Italy",
+    "engine": "4.7L Naturally-Asp. V8",
+    "power": "456 PS (450 bhp)",
+    "torque": "480 N·m (354 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed",
+    "weight": "1,585 kg (3,494 lb)",
+    "balance": "49 / 51",
+    "topSpeed": "306 km/h (190 mph)",
+    "pwr": "0.29 PS/kg",
+    "piRating": "561.09"
+  }
+]

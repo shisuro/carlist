@@ -1,50 +1,553 @@
 [
   {
+    "brand": "777 Motors",
+    "model": "777 hypercar",
+    "year": 2023,
+    "images": [
+      "images/2023_777-motors_777-hypercar_1.png",
+      "images/2023_777-motors_777-hypercar_2.png",
+      "images/2023_777-motors_777-hypercar_3.png"
+    ],
+    "logo": "logos/777-motors.png",
+    "type": "Track Toy",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "4.5L Naturally-Aspirated V8",
+    "power": "800 PS (789 hp)",
+    "torque": "550? N·m (406? lb·ft)",
+    "layout": "Mid-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Sequential",
+    "weight": "900 kg (1,984 lbs)",
+    "balance": "45? / 55?",
+    "topSpeed": "370 km/h (230 mph)",
+    "pwr": "0.89 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "7X Design",
+    "model": "Rayo",
+    "year": 2021,
+    "images": [
+      "images/2021_7x-design_rayo_1.png",
+      "images/2021_7x-design_rayo_2.png",
+      "images/2021_7x-design_rayo_3.png"
+    ],
+    "logo": "logos/7x-design.png",
+    "type": "Road Car",
+    "country": "🇪🇸 Spain",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "5.2L Twin-Turbocharged V10",
+    "power": "1,900 PS (1,874 hp)",
+    "torque": "1,500? N·m (1,106? lb·ft)",
+    "layout": "Mid-Engined",
+    "drivetrain": "All-Wheel Drive",
+    "gearbox": "7-speed Dual-Clutch",
+    "weight": "1,450? kg (3,197? lbs)",
+    "balance": "42? / 58?",
+    "topSpeed": "447 km/h (278 mph)",
+    "pwr": "1.31? PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "9ff",
+    "model": "Salvatore",
+    "year": 2019,
+    "images": [
+      "images/2019_9ff_salvatore_1.png",
+      "images/2019_9ff_salvatore_2.png",
+      "images/2019_9ff_salvatore_3.png"
+    ],
+    "logo": "logos/9ff_2001.png",
+    "type": "Road Car",
+    "country": "🇩🇪 Germany",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "3.9L Twin-Turbocharged F6",
+    "power": "1,800 PS (1,775 hp)",
+    "torque": "1,600? N·m (1,180? lb·ft)",
+    "layout": "Rear-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Sequential",
+    "weight": "1,440? kg (3,175? lbs)",
+    "balance": "38? / 62?",
+    "topSpeed": "360 km/h (224 mph)",
+    "pwr": "1.25? PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "9ff",
+    "model": "F97 A-Max",
+    "year": 2013,
+    "images": [
+      "images/2013_9ff_f97-a-max_1.png",
+      "images/2013_9ff_f97-a-max_2.png",
+      "images/2013_9ff_f97-a-max_3.png"
+    ],
+    "logo": "logos/9ff_2001.png",
+    "type": "Road Car",
+    "country": "🇩🇪 Germany",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "4.2L Twin-Turbocharged F6",
+    "power": "1,400 PS (1,381 hp)",
+    "torque": "1,160 N·m (856 lb·ft)",
+    "layout": "Rear-Engined",
+    "drivetrain": "All-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,510? kg (3,329? lbs)",
+    "balance": "38? / 62?",
+    "topSpeed": "403 km/h (250 mph)",
+    "pwr": "0.93? PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "9ff",
+    "model": "Speed9",
+    "year": 2010,
+    "images": [
+      "images/2010_9ff_speed9_1.png",
+      "images/2010_9ff_speed9_2.png",
+      "images/2010_9ff_speed9_3.png"
+    ],
+    "logo": "logos/9ff_2001.png",
+    "type": "Road Car",
+    "country": "🇩🇪 Germany",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "3.6L Twin-Turbocharged F6",
+    "power": "650 PS (641 hp)",
+    "torque": "890 N·m (656 lb·ft)",
+    "layout": "Rear-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,240? kg (2,734? lbs)",
+    "balance": "? / ?",
+    "topSpeed": "330 km/h (205 mph)",
+    "pwr": "0.52? PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "9ff",
+    "model": "GT9-R",
+    "year": 2009,
+    "images": [
+      "images/2009_9ff_gt9-r_1.png",
+      "images/2009_9ff_gt9-r_2.png",
+      "images/2009_9ff_gt9-r_3.png"
+    ],
+    "logo": "logos/9ff_2001.png",
+    "type": "Road Car",
+    "country": "🇩🇪 Germany",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "4.0L Twin-Turbocharged F6",
+    "power": "1,120 PS (1,105 hp)",
+    "torque": "1,050 N·m (774 lb·ft)",
+    "layout": "Mid-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,326 kg (2,923 lbs)",
+    "balance": "42? / 58?",
+    "topSpeed": "415 km/h (258 mph)",
+    "pwr": "0.84 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "9ff",
+    "model": "GT-T900",
+    "year": 2008,
+    "images": [
+      "images/2008_9ff_gt-t900_1.png",
+      "images/2008_9ff_gt-t900_2.png",
+      "images/2008_9ff_gt-t900_3.png"
+    ],
+    "logo": "logos/9ff_2001.png",
+    "type": "Road Car",
+    "country": "🇩🇪 Germany",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "5.7L Twin-Turbocharged V10",
+    "power": "912 PS (900 hp)",
+    "torque": "900 N·m (664 lb·ft)",
+    "layout": "Mid-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,380 kg (3,042 lbs)",
+    "balance": "42 / 58",
+    "topSpeed": "390 km/h (242 mph)",
+    "pwr": "0.66 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "AAR-Toyota",
+    "model": "Eagle MkIII",
+    "year": 1992,
+    "alternative": "1992 Toyota #99 All American Racers Toyota Eagle Mk III",
+    "images": [
+      "images/1992_aar-toyota_eagle-mkiii_1.png",
+      "images/1992_aar-toyota_eagle-mkiii_2.png",
+      "images/1992_aar-toyota_eagle-mkiii_3.png"
+    ],
+    "logo": "logos/aar-toyota.png",
+    "type": "Race Car (IMSA GTP)",
+    "country": "🇺🇸 United States",
+    "appearance": [
+      "icons/old.png",
+      "icons/fm23.png"
+    ],
+    "engine": "2.1L Turbocharged I4",
+    "power": "760 PS (750 hp)",
+    "torque": "686? N·m (506? lb·ft)",
+    "layout": "Mid-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "5-speed Manual",
+    "weight": "832 kg (1,834 lbs)",
+    "balance": "40 / 60",
+    "topSpeed": "354? km/h (220? mph)",
+    "pwr": "0.91 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "AAR-Toyota",
+    "model": "Eagle HF89",
+    "year": 1989,
+    "images": [
+      "images/1989_aar-toyota_eagle-hf89_1.png",
+      "images/1989_aar-toyota_eagle-hf89_2.png",
+      "images/1989_aar-toyota_eagle-hf89_3.png"
+    ],
+    "logo": "logos/aar-toyota.png",
+    "type": "Race Car (IMSA GTP)",
+    "country": "🇺🇸 United States",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "2.1L Turbocharged I4",
+    "power": "689 PS (680 hp)",
+    "torque": "833 N·m (614 lb·ft)",
+    "layout": "Mid-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "5-speed Manual",
+    "weight": "875 kg (1,929 lbs)",
+    "balance": "40? / 60?",
+    "topSpeed": "370? km/h (230? mph)",
+    "pwr": "0.79 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Abarth",
+    "model": "124 GT4",
+    "year": 2018,
+    "images": [
+      "images/2018_abarth_124-gt4_1.png",
+      "images/2018_abarth_124-gt4_2.png",
+      "images/2018_abarth_124-gt4_3.png"
+    ],
+    "logo": "logos/abarth_2007.png",
+    "type": "Prototype",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "1.7L Turbocharged I4",
+    "power": "380? PS (375? hp)",
+    "torque": "450? N·m (332? lb·ft)",
+    "layout": "Front-Engined?",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Sequential",
+    "weight": "1,020? kg (2,249? lbs)",
+    "balance": "50? / 50?",
+    "topSpeed": "260? km/h (162? mph)",
+    "pwr": "0.37? PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Abarth",
+    "model": "124 Spider",
+    "year": 2017,
+    "images": [
+      "images/2017_abarth_124-spider_1.png",
+      "images/2017_abarth_124-spider_2.png",
+      "images/2017_abarth_124-spider_3.png"
+    ],
+    "logo": "logos/abarth_2007.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/fh5.png",
+      "icons/old.png",
+      "icons/fm23.png"
+    ],
+    "engine": "1.4L Turbocharged I4",
+    "power": "170 PS (168 hp)",
+    "torque": "250 N·m (184 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,124 kg (2,477 lbs)",
+    "balance": "50 / 50",
+    "topSpeed": "232 km/h (144 mph)",
+    "pwr": "0.15 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Abarth",
+    "model": "695 Biposto",
+    "year": 2016,
+    "images": [
+      "images/2016_abarth_695-biposto_1.png",
+      "images/2016_abarth_695-biposto_2.png",
+      "images/2016_abarth_695-biposto_3.png"
+    ],
+    "logo": "logos/abarth_2007.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/fh6.png",
+      "icons/fh5.png",
+      "icons/old.png"
+    ],
+    "engine": "1.4L Turbocharged I4",
+    "power": "190 PS (187 hp)",
+    "torque": "250 N·m (184 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Front-Wheel Drive",
+    "gearbox": "5-speed Manual",
+    "weight": "997? kg (2,198? lbs)",
+    "balance": "64 / 36",
+    "topSpeed": "230 km/h (143 mph)",
+    "pwr": "0.19? PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Abarth",
+    "model": "Punto SuperSport",
+    "year": 2013,
+    "images": [
+      "images/2013_abarth_punto-supersport_1.png",
+      "images/2013_abarth_punto-supersport_2.png",
+      "images/2013_abarth_punto-supersport_3.png"
+    ],
+    "logo": "logos/abarth_2007.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/old.png"
+    ],
+    "engine": "1.4L Turbocharged I4",
+    "power": "180 PS (177 hp)",
+    "torque": "270 N·m (199 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Front-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,260 kg (2,778 lbs)",
+    "balance": "60 / 40",
+    "topSpeed": "218 km/h (135 mph)",
+    "pwr": "0.14 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Abarth",
+    "model": "Monotipo Stola",
+    "year": 1998,
+    "images": [
+      "images/1998_abarth_monotipo-stola_1.png",
+      "images/1998_abarth_monotipo-stola_2.png",
+      "images/1998_abarth_monotipo-stola_3.png"
+    ],
+    "logo": "logos/abarth_1969.png",
+    "type": "Concept Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "2.0L Turbocharged I4",
+    "power": "335 PS (330 hp)",
+    "torque": "345? N·m (254? lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Front-Wheel Drive",
+    "gearbox": "5-speed Manual",
+    "weight": "880 kg (1,940 lbs)",
+    "balance": "? / ?",
+    "topSpeed": "290 km/h (180 mph)",
+    "pwr": "0.38 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Abarth",
+    "model": "2400 Coupé Allemano",
+    "year": 1962,
+    "images": [
+      "images/1962_abarth_2400-coupe-allemano_1.png",
+      "images/1962_abarth_2400-coupe-allemano_2.png",
+      "images/1962_abarth_2400-coupe-allemano_3.png"
+    ],
+    "logo": "logos/abarth_1958.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "2.3L Naturaly-Aspirated I6",
+    "power": "144 PS (142 hp)",
+    "torque": "196 N·m (145 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "4-speed Manual",
+    "weight": "1,050 kg (2,315 lbs)",
+    "balance": "? / ?",
+    "topSpeed": "200 km/h (124 mph)",
+    "pwr": "0.14 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Abarth",
+    "model": "1100 Sport Ghia Coupé",
+    "year": 1953,
+    "images": [
+      "images/1953_abarth_1100-sport-ghia-coupe_1.png",
+      "images/1953_abarth_1100-sport-ghia-coupe_2.png",
+      "images/1953_abarth_1100-sport-ghia-coupe_3.png"
+    ],
+    "logo": "logos/abarth_1950.png",
+    "type": "Concept Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "1.1L Naturaly-Aspirated I4",
+    "power": "65 PS (64 hp)",
+    "torque": "? N·m (? lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "4-speed Manual",
+    "weight": "828 kg (1,825 lbs)",
+    "balance": "? / ?",
+    "topSpeed": "170 km/h (106 mph)",
+    "pwr": "0.08 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Abarth",
+    "model": "1500 Biposto Bertone",
+    "year": 1952,
+    "images": [
+      "images/1952_abarth_1500-biposto-bertone_1.png",
+      "images/1952_abarth_1500-biposto-bertone_2.png",
+      "images/1952_abarth_1500-biposto-bertone_3.png"
+    ],
+    "logo": "logos/abarth_1950.png",
+    "type": "Concept Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "1.5L Naturaly-Aspirated I4",
+    "power": "76 PS (75 hp)",
+    "torque": "100 N·m (74 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "4-speed Manual",
+    "weight": "870 kg (1,918 lbs)",
+    "balance": "55 / 45",
+    "topSpeed": "180 km/h (112 mph)",
+    "pwr": "0.09 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Abarth",
+    "model": "205A Berlinetta Vignale",
+    "year": 1950,
+    "images": [
+      "images/1950_abarth_205a-berlinetta-vignale_1.png",
+      "images/1950_abarth_205a-berlinetta-vignale_2.png",
+      "images/1950_abarth_205a-berlinetta-vignale_3.png"
+    ],
+    "logo": "logos/abarth_1950.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "1.1L Naturaly-Aspirated I4",
+    "power": "84 PS (83 hp)",
+    "torque": "108 N·m (80 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "4-speed Manual",
+    "weight": "818 kg (1,803 lbs)",
+    "balance": "53? / 47?",
+    "topSpeed": "170 km/h (106 mph)",
+    "pwr": "0.10 PS/kg",
+    "pi": "N/A"
+  },
+  {
     "brand": "Alfa Romeo",
     "model": "4C",
     "year": 2014,
     "images": [
-      "https://placehold.co/400x250/333/fff?text=Front+View",
-      "https://placehold.co/400x250/444/fff?text=Back+View",
-      "https://placehold.co/400x250/555/fff?text=Interior+View"
+      "images/2014_alfa-romeo_4c_1.png",
+      "images/2014_alfa-romeo_4c_2.png",
+      "images/2014_alfa-romeo_4c_3.png"
     ],
-    "logo": "https://placehold.co/80x80/222/fff?text=Logo",
+    "logo": "logos/alfa-romeo_1982.png",
     "type": "Road Car",
-    "country": "Italy",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/fh6.png",
+      "icons/fh5.png",
+      "icons/old.png",
+      "icons/fm23.png"
+    ],
     "engine": "1.7L Turbocharged I4",
     "power": "243 PS (239 hp)",
     "torque": "323 N·m (238 lb·ft)",
     "layout": "Mid-Engined",
     "drivetrain": "Rear-Wheel Drive",
-    "gearbox": "6-speed",
-    "weight": "940 kg (2,072 lb)",
+    "gearbox": "6-speed Dual-Clutch",
+    "weight": "940 kg (2,072 lbs)",
     "balance": "41 / 59",
     "topSpeed": "259 km/h (161 mph)",
     "pwr": "0.26 PS/kg",
-    "piRating": "534.25"
+    "pi": "N/A"
   },
   {
     "brand": "Alfa Romeo",
     "model": "8C Competizione",
     "year": 2007,
     "images": [
-      "https://placehold.co/400x250/800000/fff?text=Front+View",
-      "https://placehold.co/400x250/a00000/fff?text=Back+View",
-      "https://placehold.co/400x250/c00000/fff?text=Interior+View"
+      "images/2007_alfa-romeo_8c-competizione_1.png",
+      "images/2007_alfa-romeo_8c-competizione_2.png",
+      "images/2007_alfa-romeo_8c-competizione_3.png"
     ],
-    "logo": "https://placehold.co/80x80/222/fff?text=Logo",
+    "logo": "logos/alfa-romeo_1982.png",
     "type": "Road Car",
-    "country": "Italy",
-    "engine": "4.7L Naturally-Asp. V8",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/fh6.png",
+      "icons/fh5.png",
+      "icons/old.png"
+    ],
+    "engine": "4.7L Naturally-Aspirated V8",
     "power": "456 PS (450 bhp)",
     "torque": "480 N·m (354 lb·ft)",
     "layout": "Front-Engined",
     "drivetrain": "Rear-Wheel Drive",
-    "gearbox": "6-speed",
-    "weight": "1,585 kg (3,494 lb)",
+    "gearbox": "6-speed Automated Manual",
+    "weight": "1,585 kg (3,494 lbs)",
     "balance": "49 / 51",
     "topSpeed": "306 km/h (190 mph)",
     "pwr": "0.29 PS/kg",
-    "piRating": "561.09"
+    "pi": "N/A"
   }
 ]

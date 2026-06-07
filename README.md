@@ -1,1 +1,2 @@
-# carlist.github.io
+# SyselSyslo's Automotive Database
+Since the Forza Forums are unfortunately shutting down at the end of June 2026, I've made this repo to host my car list instead. What a shame...

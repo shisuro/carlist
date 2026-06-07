@@ -31,7 +31,7 @@ header {
     color: white;
 }
 
-/* Horizontal scrolling wrapper */
+/* horizontal scrolling wrapper */
 .car-row {
     display: flex;
     gap: 20px;
@@ -41,19 +41,32 @@ header {
     scrollbar-color: var(--card-border) var(--card-bg);
 }
 
-/* Car Card Styling */
+/* car card styling */
 .car-card {
     background-color: var(--card-bg);
-    border: 1px solid #333;
+    border: 1px solid rgba(128,0,0,0.9);
     border-top: 3px solid var(--card-border);
     border-bottom: 3px solid var(--card-border);
-    border-radius: 8px;
+    border-radius: 12px;
     min-width: 350px;
     max-width: 350px;
     overflow: hidden;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    box-shadow:
+        0 0 0 6px rgba(128,0,0,0.08),
+        0 10px 30px rgba(0,0,0,0.7),
+        0 0 30px 6px rgba(128,0,0,0.25);
+    position: relative;
     display: flex;
     flex-direction: column;
+}
+
+.car-card::before {
+    content: "";
+    position: absolute;
+    inset: 6px;
+    border-radius: 8px;
+    pointer-events: none;
+    box-shadow: inset 0 2px 20px rgba(0,0,0,0.6);
 }
 
 .car-header {
@@ -62,10 +75,14 @@ header {
     font-size: 1.2rem;
     font-weight: bold;
     font-style: italic;
-    background: linear-gradient(to bottom, #222, #111);
+    background: linear-gradient(180deg, #6d0000, #2a0000);
+    color: #fff;
+    text-shadow: 0 2px 6px rgba(0,0,0,0.7);
 }
 
-/* Image Carousel */
+.car-header.has-tooltip { cursor: help; }
+
+/* image carousel */
 .image-container {
     position: relative;
     width: 100%;
@@ -100,7 +117,7 @@ header {
 .next-btn { right: 0; }
 .carousel-btn:hover { background: var(--card-border); }
 
-/* Data Sections */
+/* data sections */
 .data-section {
     padding: 15px;
     border-bottom: 1px solid #222;
@@ -144,8 +161,8 @@ header {
 }
 
 .brand-logo {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     object-fit: contain;
 }
 
@@ -153,4 +170,119 @@ header {
     flex-grow: 1;
     text-align: right;
     font-size: 0.9rem;
+}
+
+/* appearance icons */
+.appearance-row {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-top: 15px;
+    align-items: center;
+}
+
+.appearance-icon {
+    width: 22px;
+    height: 22px;
+    object-fit: contain;
+    opacity: 0.95;
+    filter: drop-shadow(0 1px 2px rgba(0,0,0,0.6));
+    border-radius: 3px;
+}
+
+/* image viewer */
+#viewer-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 200ms ease;
+}
+
+#viewer-overlay.open {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+#viewer-box {
+    position: relative;
+    max-width: 92vw;
+    max-height: 90vh;
+    width: auto;
+    padding: 18px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#viewer-media-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    max-height: 80vh;
+}
+
+#viewer-img {
+    max-width: 90vw;
+    max-height: 80vh;
+    width: auto;
+    height: auto;
+    border-radius: 6px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.6);
+}
+
+#viewer-caption {
+    margin-top: 10px;
+    color: var(--text-main);
+    font-size: 0.95rem;
+    opacity: 0.9;
+}
+
+.viewer-nav {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    border: none;
+    font-size: 2rem;
+    padding: 0;
+    cursor: pointer;
+    border-radius: 6px;
+    z-index: 10001;
+    width: 56px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.6);
+}
+
+#viewer-prev { left: 20px; }
+#viewer-next { right: 20px; }
+
+#viewer-close {
+    position: absolute;
+    right: -10px;
+    top: -10px;
+    background: transparent;
+    color: #fff;
+    border: none;
+    font-size: 2rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+@media (max-width: 600px) {
+    .viewer-nav { font-size: 1.6rem; width: 44px; height: 44px; }
+    #viewer-caption { font-size: 0.85rem; }
+    #viewer-prev { left: 8px; }
+    #viewer-next { right: 8px; }
 }

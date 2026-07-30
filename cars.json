@@ -262,7 +262,7 @@
     "engine": "1.7L Turbocharged I4",
     "power": "380? PS (375? hp)",
     "torque": "450? N·m (332? lb·ft)",
-    "layout": "Front-Engined?",
+    "layout": "Front-Engined",
     "drivetrain": "Rear-Wheel Drive",
     "gearbox": "6-speed Sequential",
     "weight": "1,020? kg (2,249? lbs)",
@@ -398,7 +398,7 @@
     "appearance": [
       "icons/no.png"
     ],
-    "engine": "2.3L Naturaly-Aspirated I6",
+    "engine": "2.3L Naturally-Aspirated I6",
     "power": "144 PS (142 hp)",
     "torque": "196 N·m (145 lb·ft)",
     "layout": "Front-Engined",
@@ -425,7 +425,7 @@
     "appearance": [
       "icons/no.png"
     ],
-    "engine": "1.1L Naturaly-Aspirated I4",
+    "engine": "1.1L Naturally-Aspirated I4",
     "power": "65 PS (64 hp)",
     "torque": "? N·m (? lb·ft)",
     "layout": "Front-Engined",
@@ -452,7 +452,7 @@
     "appearance": [
       "icons/no.png"
     ],
-    "engine": "1.5L Naturaly-Aspirated I4",
+    "engine": "1.5L Naturally-Aspirated I4",
     "power": "76 PS (75 hp)",
     "torque": "100 N·m (74 lb·ft)",
     "layout": "Front-Engined",
@@ -479,7 +479,7 @@
     "appearance": [
       "icons/no.png"
     ],
-    "engine": "1.1L Naturaly-Aspirated I4",
+    "engine": "1.1L Naturally-Aspirated I4",
     "power": "84 PS (83 hp)",
     "torque": "108 N·m (80 lb·ft)",
     "layout": "Front-Engined",
@@ -489,6 +489,470 @@
     "balance": "53? / 47?",
     "topSpeed": "170 km/h (106 mph)",
     "pwr": "0.10 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Abflug",
+    "model": "Schwarzer",
+    "year": 2011,
+    "images": [
+      "images/2011_abflug_schwarzer_1.png",
+      "images/2011_abflug_schwarzer_2.png",
+      "images/2011_abflug_schwarzer_3.png"
+    ],
+    "logo": "logos/abflug.png",
+    "type": "Road Car",
+    "country": "🇯🇵 Japan",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "3.0L Twin-Turbocharged I6",
+    "power": "620 PS (612 hp)",
+    "torque": "750? N·m (553? lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,585? kg (3,494? lbs)",
+    "balance": "53? / 47?",
+    "topSpeed": "323 km/h (201 mph)",
+    "pwr": "0.39? PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "ABR Hosoki Engineering",
+    "model": "S130Z",
+    "year": 1996,
+    "images": [
+      "images/1996_abr-hosoki-engineering_s130z_1.png",
+      "images/1996_abr-hosoki-engineering_s130z_2.png",
+      "images/1996_abr-hosoki-engineering_s130z_3.png",
+      "images/1996_abr-hosoki-engineering_s130z_4.png"
+    ],
+    "logo": "logos/abr-hosoki-engineering.png",
+    "type": "Road Car",
+    "country": "🇯🇵 Japan",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "3.1L Twin-Turbocharged I6",
+    "power": "680 PS (671 hp)",
+    "torque": "785? N·m (579? lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "5-speed Manual",
+    "weight": "1,250? kg (2,755? lbs)",
+    "balance": "? / ?",
+    "topSpeed": "341 km/h (212 mph)",
+    "pwr": "0.54? PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "ABT",
+    "model": "RS7 Legacy Edition 1000 HP",
+    "year": 2023,
+    "images": [
+      "images/2023_abt_rs7-legacy-edition-1000-hp_1.png",
+      "images/2023_abt_rs7-legacy-edition-1000-hp_2.png",
+      "images/2023_abt_rs7-legacy-edition-1000-hp_3.png"
+    ],
+    "logo": "logos/abt_2021.png",
+    "type": "Road Car",
+    "country": "🇩🇪 Germany",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "4.0L Twin-Turbocharged Hybrid V8",
+    "power": "1,014 PS (1,000 hp)",
+    "torque": "1,150 N·m (848 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "All-Wheel Drive",
+    "gearbox": "8-speed Automatic",
+    "weight": "2,200 kg (4,850 lbs)",
+    "balance": "56? / 44?",
+    "topSpeed": "330 km/h (205 mph)",
+    "pwr": "0.46 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "ABT",
+    "model": "XGT",
+    "year": 2023,
+    "images": [
+      "images/2023_abt_xgt_1.png",
+      "images/2023_abt_xgt_2.png",
+      "images/2023_abt_xgt_3.png"
+    ],
+    "logo": "logos/abt_2021.png",
+    "type": "Road Car",
+    "country": "🇩🇪 Germany",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "5.2L Naturally-Aspirated V10",
+    "power": "640 PS (631 hp)",
+    "torque": "550 N·m (406 lb·ft)",
+    "layout": "Mid-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "7-speed Dual-Clutch",
+    "weight": "1,400 kg (3,086 lbs)",
+    "balance": "39? / 61?",
+    "topSpeed": "310 km/h (193 mph)",
+    "pwr": "0.46 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "ABT",
+    "model": "TT-R",
+    "year": 2002,
+    "alternative": "2004 Audi #8 Audi ABT TT-R",
+    "images": [
+      "images/2002_abt_tt-r_1.png",
+      "images/2002_abt_tt-r_2.png",
+      "images/2002_abt_tt-r_3.png"
+    ],
+    "logo": "logos/abt_1996.png",
+    "type": "Race Car (DTM)",
+    "country": "🇩🇪 Germany",
+    "appearance": [
+      "icons/old.png"
+    ],
+    "engine": "4.0L Naturally-Aspirated V8",
+    "power": "461 PS (455 hp)",
+    "torque": "510 N·m (376 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Sequential",
+    "weight": "1,080 kg (2,381 lbs)",
+    "balance": "50 / 50",
+    "topSpeed": "? km/h (? mph)",
+    "pwr": "0.43 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "AC",
+    "model": "Frua Coupé",
+    "year": 1968,
+    "images": [
+      "images/1968_ac_frua-coupe_1.png",
+      "images/1968_ac_frua-coupe_2.png",
+      "images/1968_ac_frua-coupe_3.png"
+    ],
+    "logo": "logos/ac_1911.png",
+    "type": "Road Car",
+    "country": "🇬🇧 United Kingdom",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "7.0L Naturally-Aspirated V8",
+    "power": "350 PS (345 hp)",
+    "torque": "644 N·m (475 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "4-speed Manual",
+    "weight": "1,416 kg (3,122 lbs)",
+    "balance": "52? / 48?",
+    "topSpeed": "245 km/h (152 mph)",
+    "pwr": "0.25 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "ACOMA",
+    "model": "Mini-Comtesse",
+    "year": 1972,
+    "images": [
+      "images/1972_acoma_mini-comtesse_1.png",
+      "images/1972_acoma_mini-comtesse_2.png",
+      "images/1972_acoma_mini-comtesse_3.png"
+    ],
+    "logo": "logos/acoma.png",
+    "type": "Road Car",
+    "country": "🇫🇷 France",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "0.05L Naturally-Aspirated Single-Cylinder",
+    "power": "3 PS (3 hp)",
+    "torque": "3.5? N·m (2.6? lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Front-Wheel Drive",
+    "gearbox": "2-speed Automatic",
+    "weight": "155 kg (342 lbs)",
+    "balance": "? / ?",
+    "topSpeed": "32 km/h (20 mph)",
+    "pwr": "0.02 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Acura",
+    "model": "Integra Type S",
+    "year": 2024,
+    "images": [
+      "images/2024_acura_integra-type-s_1.png",
+      "images/2024_acura_integra-type-s_2.png",
+      "images/2024_acura_integra-type-s_3.png"
+    ],
+    "logo": "logos/acura.png",
+    "type": "Road Car",
+    "country": "🇺🇸 United States",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "2.0L Turbocharged I4",
+    "power": "324 PS (320 hp)",
+    "torque": "420 N·m (310 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Front-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,460 kg (3,219 lbs)",
+    "balance": "62 / 38",
+    "topSpeed": "269 km/h (167 mph)",
+    "pwr": "0.22 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Acura",
+    "model": "TLX Type S",
+    "year": 2021,
+    "images": [
+      "images/2021_acura_tlx-type-s_1.png",
+      "images/2021_acura_tlx-type-s_2.png",
+      "images/2021_acura_tlx-type-s_3.png"
+    ],
+    "logo": "logos/acura.png",
+    "type": "Road Car",
+    "country": "🇺🇸 United States",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "3.0L Turbocharged V6",
+    "power": "360 PS (355 hp)",
+    "torque": "480 N·m (354 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "All-Wheel Drive",
+    "gearbox": "10-speed Automatic",
+    "weight": "1,905 kg (4,200 lbs)",
+    "balance": "59 / 41",
+    "topSpeed": "250 km/h (155 mph)",
+    "pwr": "0.19 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Acura",
+    "model": "3.2TL Type S",
+    "year": 2002,
+    "images": [
+      "images/2002_acura_3-2tl-type-s_1.png",
+      "images/2002_acura_3-2tl-type-s_2.png",
+      "images/2002_acura_3-2tl-type-s_3.png"
+    ],
+    "logo": "logos/acura.png",
+    "type": "Road Car",
+    "country": "🇺🇸 United States",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "3.2L Turbocharged V6",
+    "power": "264 PS (260 hp)",
+    "torque": "315 N·m (232 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Front-Wheel Drive",
+    "gearbox": "5-speed Automatic",
+    "weight": "1,610 kg (3,554 lbs)",
+    "balance": "62 / 38",
+    "topSpeed": "240 km/h (149 mph)",
+    "pwr": "0.16 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Adamastor",
+    "model": "Furia",
+    "year": 2024,
+    "images": [
+      "images/2024_adamastor_furia_1.png",
+      "images/2024_adamastor_furia_2.png",
+      "images/2024_adamastor_furia_3.png"
+    ],
+    "logo": "logos/adamastor.png",
+    "type": "Road Car",
+    "country": "🇵🇹 Portugal",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "3.5L Twin-Turbocharged V6",
+    "power": "659 PS (650 hp)",
+    "torque": "571 N·m (421 lb·ft)",
+    "layout": "Mid-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Sequential",
+    "weight": "1,100 kg (2,425 lbs)",
+    "balance": "? / ?",
+    "topSpeed": "300? km/h (186? mph)",
+    "pwr": "0.60 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Afeela",
+    "model": "1 Signature",
+    "year": 2026,
+    "images": [
+      "images/2026_afeela_1-signature_1.png",
+      "images/2026_afeela_1-signature_2.png",
+      "images/2026_afeela_1-signature_3.png"
+    ],
+    "logo": "logos/afeela.png",
+    "type": "Prototype",
+    "country": "🇯🇵 Japan",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "Electric",
+    "power": "490 PS (483 hp)",
+    "torque": "? N·m (? lb·ft)",
+    "layout": "N/A",
+    "drivetrain": "All-Wheel Drive",
+    "gearbox": "1-speed Automatic",
+    "weight": "2,420 kg (5,335 lbs)",
+    "balance": "51 / 49",
+    "topSpeed": "234 km/h (145 mph)",
+    "pwr": "0.20 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "33 Stradale",
+    "year": 2025,
+    "images": [
+      "images/2025_alfa-romeo_33-stradale_1.png",
+      "images/2025_alfa-romeo_33-stradale_2.png",
+      "images/2025_alfa-romeo_33-stradale_3.png"
+    ],
+    "logo": "logos/alfa-romeo_2015.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "3.0L Twin-Turbocharged V6",
+    "power": "630 PS (621 hp)",
+    "torque": "730 N·m (538 lb·ft)",
+    "layout": "Mid-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "8-speed Dual-Clutch",
+    "weight": "1,500? kg (3,307? lbs)",
+    "balance": "41? / 59?",
+    "topSpeed": "333 km/h (207 mph)",
+    "pwr": "0.42? PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Giulia SWB Zagato",
+    "year": 2022,
+    "images": [
+      "images/2022_alfa-romeo_giulia-swb-zagato_1.png",
+      "images/2022_alfa-romeo_giulia-swb-zagato_2.png",
+      "images/2022_alfa-romeo_giulia-swb-zagato_3.png"
+    ],
+    "logo": "logos/alfa-romeo_2015.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "2.9L Twin-Turbocharged V6",
+    "power": "540 PS (533 hp)",
+    "torque": "600 N·m (443 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,500? kg (3,307? lbs)",
+    "balance": "50? / 50?",
+    "topSpeed": "? km/h (? mph)",
+    "pwr": "0.36? PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Giulia GTAm",
+    "year": 2021,
+    "images": [
+      "images/2021_alfa-romeo_giulia-gtam_1.png",
+      "images/2021_alfa-romeo_giulia-gtam_2.png",
+      "images/2021_alfa-romeo_giulia-gtam_3.png"
+    ],
+    "logo": "logos/alfa-romeo_2015.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/fh6.png"
+    ],
+    "engine": "2.9L Twin-Turbocharged V6",
+    "power": "540 PS (533 hp)",
+    "torque": "600 N·m (443 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "8-speed Automatic",
+    "weight": "1,580 kg (3,483 lbs)",
+    "balance": "54 / 46",
+    "topSpeed": "300 km/h (186 mph)",
+    "pwr": "0.34 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Stelvio Quadrifoglio",
+    "year": 2018,
+    "images": [
+      "images/2018_alfa-romeo_stelvio-quadrifoglio_1.png",
+      "images/2018_alfa-romeo_stelvio-quadrifoglio_2.png",
+      "images/2018_alfa-romeo_stelvio-quadrifoglio_3.png"
+    ],
+    "logo": "logos/alfa-romeo_2015.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/old.png"
+    ],
+    "engine": "2.9L Twin-Turbocharged V6",
+    "power": "510 PS (503 hp)",
+    "torque": "600 N·m (443 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "All-Wheel Drive",
+    "gearbox": "8-speed Automatic",
+    "weight": "1,830 kg (4,034 lbs)",
+    "balance": "54 / 46",
+    "topSpeed": "283 km/h (176 mph)",
+    "pwr": "0.28 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Giulia Quadrifoglio",
+    "year": 2017,
+    "images": [
+      "images/2017_alfa-romeo_giulia-quadrifoglio_1.png",
+      "images/2017_alfa-romeo_giulia-quadrifoglio_2.png",
+      "images/2017_alfa-romeo_giulia-quadrifoglio_3.png"
+    ],
+    "logo": "logos/alfa-romeo_2015.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/fh6.png",
+      "icons/fh5.png",
+      "icons/old.png",
+      "icons/fm23.png"
+    ],
+    "engine": "2.9L Twin-Turbocharged V6",
+    "power": "510 PS (503 hp)",
+    "torque": "600 N·m (443 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,585 kg (3,494 lbs)",
+    "balance": "50 / 50",
+    "topSpeed": "307 km/h (191 mph)",
+    "pwr": "0.32 PS/kg",
     "pi": "N/A"
   },
   {
@@ -523,6 +987,197 @@
   },
   {
     "brand": "Alfa Romeo",
+    "model": "Disco Volante",
+    "year": 2013,
+    "images": [
+      "images/2013_alfa-romeo_disco-volante_1.png",
+      "images/2013_alfa-romeo_disco-volante_2.png",
+      "images/2013_alfa-romeo_disco-volante_3.png"
+    ],
+    "logo": "logos/alfa-romeo_1982.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "4.7L Naturally-Aspirated V8",
+    "power": "450 PS (444 hp)",
+    "torque": "480 N·m (354 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Automated Manual",
+    "weight": "? kg (? lbs)",
+    "balance": "49 / 51",
+    "topSpeed": "292 km/h (181 mph)",
+    "pwr": "? PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Giulietta Quadrifoglio Verde",
+    "year": 2011,
+    "images": [
+      "images/2011_alfa-romeo_giulietta-quadrifoglio-verde_1.png",
+      "images/2011_alfa-romeo_giulietta-quadrifoglio-verde_2.png",
+      "images/2011_alfa-romeo_giulietta-quadrifoglio-verde_3.png"
+    ],
+    "logo": "logos/alfa-romeo_1982.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/old.png",
+      "icons/fm23.png"
+    ],
+    "engine": "1.7L Turbocharged I4",
+    "power": "235 PS (232 hp)",
+    "torque": "340 N·m (251 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Front-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,395 kg (3,075 lbs)",
+    "balance": "63 / 37",
+    "topSpeed": "242 km/h (150 mph)",
+    "pwr": "0.17 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "TZ3 Stradale Zagato",
+    "year": 2011,
+    "images": [
+      "images/2011_alfa-romeo_tz3-stradale-zagato_1.png",
+      "images/2011_alfa-romeo_tz3-stradale-zagato_2.png",
+      "images/2011_alfa-romeo_tz3-stradale-zagato_3.png"
+    ],
+    "logo": "logos/alfa-romeo_1982.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/old.png"
+    ],
+    "engine": "8.4L Naturally-Aspirated V10",
+    "power": "608 PS (600 hp)",
+    "torque": "760 N·m (561 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,451 kg (3,200 lbs)",
+    "balance": "49 / 51",
+    "topSpeed": "325 km/h (202 mph)",
+    "pwr": "0.42 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Brera Italia Independent",
+    "year": 2009,
+    "images": [
+      "images/2009_alfa-romeo_brera-italia-independent_1.png",
+      "images/2009_alfa-romeo_brera-italia-independent_2.png",
+      "images/2009_alfa-romeo_brera-italia-independent_3.png"
+    ],
+    "logo": "logos/alfa-romeo_1982.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/old.png"
+    ],
+    "engine": "3.2L Naturally-Aspirated V6",
+    "power": "260 PS (256 hp)",
+    "torque": "322 N·m (237 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "All-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,630 kg (3,594 lbs)",
+    "balance": "60 / 40",
+    "topSpeed": "244 km/h (152 mph)",
+    "pwr": "0.16 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "MiTo 1.4 TB 16v",
+    "year": 2009,
+    "alternative": "2008 Alfa Romeo MiTo",
+    "images": [
+      "images/2009_alfa-romeo_mito-1-4-tb-16v_1.png",
+      "images/2009_alfa-romeo_mito-1-4-tb-16v_2.png",
+      "images/2009_alfa-romeo_mito-1-4-tb-16v_3.png"
+    ],
+    "logo": "logos/alfa-romeo_1982.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/old.png"
+    ],
+    "engine": "1.4L Turbocharged I4",
+    "power": "155 PS (152 hp)",
+    "torque": "230 N·m (170 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Front-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,145 kg (2,524 lbs)",
+    "balance": "62 / 38",
+    "topSpeed": "215 km/h (134 mph)",
+    "pwr": "0.14 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "MiTo GTA",
+    "year": 2009,
+    "images": [
+      "images/2009_alfa-romeo_mito-gta_1.png",
+      "images/2009_alfa-romeo_mito-gta_2.png",
+      "images/2009_alfa-romeo_mito-gta_3.png"
+    ],
+    "logo": "logos/alfa-romeo_1982.png",
+    "type": "Concept Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "1.7L Turbocharged I4",
+    "power": "240 PS (237 hp)",
+    "torque": "? N·m (? lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Front-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "? kg (? lbs)",
+    "balance": "? / ?",
+    "topSpeed": "250 km/h (155 mph)",
+    "pwr": "? PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "159 3.2 JTS V6 Q4 TI",
+    "year": 2007,
+    "images": [
+      "images/2007_alfa-romeo_159-3-2-jts-v6-q4-ti_1.png",
+      "images/2007_alfa-romeo_159-3-2-jts-v6-q4-ti_2.png",
+      "images/2007_alfa-romeo_159-3-2-jts-v6-q4-ti_3.png"
+    ],
+    "logo": "logos/alfa-romeo_1982.png",
+    "type": "Road Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "3.2L Naturally-Aspirated V6",
+    "power": "260 PS (256 hp)",
+    "torque": "322 N·m (237 lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "All-Wheel Drive",
+    "gearbox": "6-speed Manual",
+    "weight": "1,680 kg (3,704 lbs)",
+    "balance": "60 / 40",
+    "topSpeed": "240 km/h (149 mph)",
+    "pwr": "0.15 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
     "model": "8C Competizione",
     "year": 2007,
     "images": [
@@ -548,6 +1203,125 @@
     "balance": "49 / 51",
     "topSpeed": "306 km/h (190 mph)",
     "pwr": "0.29 PS/kg",
+    "pi": "N/A"
+  },
+  {
+    "brand": "Alfa Romeo",
+    "model": "Diva",
+    "year": 2006,
+    "images": [
+      "images/2006_alfa-romeo_diva_1.png",
+      "images/2006_alfa-romeo_diva_2.png",
+      "images/2006_alfa-romeo_diva_3.png"
+    ],
+    "logo": "logos/alfa-romeo_1982.png",
+    "type": "Concept Car",
+    "country": "🇮🇹 Italy",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "3.2L Naturally-Aspirated V6",
+    "power": "294 PS (290 bhp)",
+    "torque": "? N·m (? lb·ft)",
+    "layout": "Mid-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "6-speed Automated Manual",
+    "weight": "1,100 kg (2,425 lbs)",
+    "balance": "40 / 60",
+    "topSpeed": "270 km/h (168 mph)",
+    "pwr": "0.27 PS/kg",
+    "pi": "N/A"
+  },
+  
+
+
+  {
+    "brand": "Vector",
+    "model": "W8 Twin Turbo",
+    "year": 1990,
+    "images": [
+      "images/1990_vector_w8-twin-turbo_1.png",
+      "images/1990_vector_w8-twin-turbo_2.png",
+      "images/1990_vector_w8-twin-turbo_3.png"
+    ],
+    "logo": "logos/vector_1989.png",
+    "type": "Road Car",
+    "country": "🇺🇸 United States",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "",
+    "power": " PS ( hp)",
+    "torque": " N·m ( lb·ft)",
+    "layout": "Front-Engined",
+    "drivetrain": "Front-Wheel Drive",
+    "gearbox": "-speed Automatic",
+    "weight": "1,805 kg (3,980 lbs)",
+    "balance": "45 / 55",
+    "topSpeed": " km/h ( mph)",
+    "pwr": "0. PS/kg",
+    "pi": "N/A"
+  },
+  {
+      "brand": "Vector",
+      "model": "M12",
+      "year": 1996,
+      "images": [
+        "images/1996_vector_m12_1.png",
+        "images/1996_vector_m12_2.png",
+        "images/1996_vector_m12_3.png"
+      ],
+      "logo": "logos/vector_1993.png",
+      "type": "Road Car",
+      "country": "🇺🇸 United States",
+      "appearance": [
+        "icons/no.png"
+      ],
+      "engine": "",
+      "power": " PS ( hp)",
+      "torque": " N·m ( lb·ft)",
+      "layout": "Front-Engined",
+      "drivetrain": "Front-Wheel Drive",
+      "gearbox": "-speed Automatic",
+      "weight": "1,864 kg (4,110 lbs)",
+      "balance": "44 / 56",
+      "topSpeed": " km/h ( mph)",
+      "pwr": "0. PS/kg",
+      "pi": "N/A"
+    },
+
+
+    {
+    "brand": "Yoshida Specials",
+    "model": "930",
+    "year": 1995,
+    "images": [
+      "images/1995_yoshida-specials_930_1.png",
+      "images/1995_yoshida-specials_930_2.png",
+      "images/1995_yoshida-specials_930_3.png",
+      "images/1995_yoshida-specials_930_4.png",
+      "images/1995_yoshida-specials_930_5.png",
+      "images/1995_yoshida-specials_930_6.png",
+      "images/1995_yoshida-specials_930_7.png",
+      "images/1995_yoshida-specials_930_8.png",
+      "images/1995_yoshida-specials_930_9.png"
+    ],
+    "logo": "logos/yoshida-specials.png",
+    "type": "Road Car",
+    "country": "🇯🇵 Japan",
+    "appearance": [
+      "icons/no.png"
+    ],
+    "engine": "3.3L Turbocharged F6",
+    "power": "600? PS (592? hp)",
+    "torque": "680? N·m (502? lb·ft)",
+    "layout": "Rear-Engined",
+    "drivetrain": "Rear-Wheel Drive",
+    "gearbox": "5-speed Manual",
+    "weight": "1,200? kg (2,645? lbs)",
+    "balance": "38? / 62?",
+    "topSpeed": "340? km/h (211? mph)",
+    "pwr": "0.50? PS/kg",
     "pi": "N/A"
   }
 ]
